@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY: "AKIAJPLEDQCSPI6DXEPQ"
+AWS_SECRET_KEY: "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"
+AWS_BUCKET: "marsha-flixter-bucket"
+AWS_REGION: "us-east-1"
